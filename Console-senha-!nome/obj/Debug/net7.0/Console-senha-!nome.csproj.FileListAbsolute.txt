@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\bin\Debug\net7.0\Console-senha-!nome.exe
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\bin\Debug\net7.0\Console-senha-!nome.deps.json
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\bin\Debug\net7.0\Console-senha-!nome.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\bin\Debug\net7.0\Console-senha-!nome.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\bin\Debug\net7.0\Console-senha-!nome.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\refint\Console-senha-!nome.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\Console-senha-!nome.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\Console-senha-!nome\obj\Debug\net7.0\ref\Console-senha-!nome.dll

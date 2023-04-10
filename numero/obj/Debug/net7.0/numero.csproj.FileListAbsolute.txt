@@ -1,0 +1,15 @@
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\bin\Debug\net7.0\numero.exe
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\bin\Debug\net7.0\numero.deps.json
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\bin\Debug\net7.0\numero.runtimeconfig.json
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\bin\Debug\net7.0\numero.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\bin\Debug\net7.0\numero.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.csproj.AssemblyReference.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.AssemblyInfoInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.AssemblyInfo.cs
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.csproj.CoreCompileInputs.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\refint\numero.dll
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.pdb
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\numero.genruntimeconfig.cache
+C:\Users\48599214888\Desktop\Exercicios-backend\numero\obj\Debug\net7.0\ref\numero.dll
